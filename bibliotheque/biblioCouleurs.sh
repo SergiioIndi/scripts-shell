@@ -229,7 +229,7 @@ liberer_les_couleurs ()
     unset blanc blanc_souligne blanc_rouge blanc_vert blanc_jaune blanc_bleu blanc_magenta blanc_cyan
     unset BLANC BLANC_rouge BLANC_vert BLANC_jaune BLANC_bleu BLANC_magenta BLANC_cyan
 
-    #............................................................................. la(es) fonctions
+    #........................................................................... la(es) fonction(s)
     unset -f definir_les_couleurs
 
     #..............................................................................................
